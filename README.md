@@ -9,9 +9,6 @@ AUTOR: Caio Graco Bucke Brito
 DATA: 13/Nov/2017
 #############################################################
 
-Esse projeto foi desenvolvido conforme as especificações determinadas no processo
-seletivo da Luxfacta.
-
 Consiste numa aplicação de questionários (Polls) utilizando API RESTful.
 
 Endereço para execução é o do localhost (http://localhost:8081). Esse endereço pode
